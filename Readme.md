@@ -1,0 +1,1 @@
+A simple terraform Project to run a static website using s3 Bucket
